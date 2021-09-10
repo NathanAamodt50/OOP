@@ -1,0 +1,16 @@
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\bin\Debug\net5.0\AamodtA6.exe
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\bin\Debug\net5.0\AamodtA6.deps.json
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\bin\Debug\net5.0\AamodtA6.runtimeconfig.json
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\bin\Debug\net5.0\AamodtA6.runtimeconfig.dev.json
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\bin\Debug\net5.0\AamodtA6.dll
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\bin\Debug\net5.0\ref\AamodtA6.dll
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\bin\Debug\net5.0\AamodtA6.pdb
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\obj\Debug\net5.0\AamodtA6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\obj\Debug\net5.0\AamodtA6.AssemblyInfoInputs.cache
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\obj\Debug\net5.0\AamodtA6.AssemblyInfo.cs
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\obj\Debug\net5.0\AamodtA6.csproj.CoreCompileInputs.cache
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\obj\Debug\net5.0\AamodtA6.dll
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\obj\Debug\net5.0\ref\AamodtA6.dll
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\obj\Debug\net5.0\AamodtA6.pdb
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\obj\Debug\net5.0\AamodtA6.genruntimeconfig.cache
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA6\AamodtA6\AamodtA6\obj\Debug\net5.0\AamodtA6.csprojAssemblyReference.cache

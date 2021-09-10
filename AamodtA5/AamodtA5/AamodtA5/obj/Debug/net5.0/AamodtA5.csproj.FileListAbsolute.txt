@@ -1,0 +1,16 @@
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\obj\Debug\net5.0\AamodtA5.csprojAssemblyReference.cache
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\obj\Debug\net5.0\AamodtA5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\obj\Debug\net5.0\AamodtA5.AssemblyInfoInputs.cache
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\obj\Debug\net5.0\AamodtA5.AssemblyInfo.cs
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\obj\Debug\net5.0\AamodtA5.csproj.CoreCompileInputs.cache
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\obj\Debug\net5.0\AamodtA5.genruntimeconfig.cache
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\bin\Debug\net5.0\AppStoreNS.exe
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\bin\Debug\net5.0\AppStoreNS.deps.json
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\bin\Debug\net5.0\AppStoreNS.runtimeconfig.json
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\bin\Debug\net5.0\AppStoreNS.runtimeconfig.dev.json
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\bin\Debug\net5.0\AppStoreNS.dll
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\bin\Debug\net5.0\ref\AppStoreNS.dll
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\bin\Debug\net5.0\AppStoreNS.pdb
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\obj\Debug\net5.0\AppStoreNS.dll
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\obj\Debug\net5.0\ref\AppStoreNS.dll
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA5\AamodtA5\AamodtA5\obj\Debug\net5.0\AppStoreNS.pdb

@@ -1,0 +1,13 @@
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\obj\Debug\netcoreapp3.1\AamodtA4.csprojAssemblyReference.cache
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\obj\Debug\netcoreapp3.1\AamodtA4.AssemblyInfoInputs.cache
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\obj\Debug\netcoreapp3.1\AamodtA4.AssemblyInfo.cs
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\obj\Debug\netcoreapp3.1\AamodtA4.csproj.CoreCompileInputs.cache
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\bin\Debug\netcoreapp3.1\AamodtA4.exe
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\bin\Debug\netcoreapp3.1\AamodtA4.deps.json
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\bin\Debug\netcoreapp3.1\AamodtA4.runtimeconfig.json
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\bin\Debug\netcoreapp3.1\AamodtA4.runtimeconfig.dev.json
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\bin\Debug\netcoreapp3.1\AamodtA4.dll
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\bin\Debug\netcoreapp3.1\AamodtA4.pdb
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\obj\Debug\netcoreapp3.1\AamodtA4.dll
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\obj\Debug\netcoreapp3.1\AamodtA4.pdb
+C:\Users\Natea\Desktop\OOP\Visual Studio\AamodtA4\AamodtA4\obj\Debug\netcoreapp3.1\AamodtA4.genruntimeconfig.cache

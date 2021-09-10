@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AamodtA4/1.0.0": {
+        "runtime": {
+          "AamodtA4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AamodtA4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
